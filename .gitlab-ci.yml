@@ -6,5 +6,5 @@ staging:
     - gem install dpl
     - dpl --provider=heroku --app=my-app-staging --api-key=$HEROKU_API_KEY
   only:
-    - master
+    - main
     
