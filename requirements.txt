@@ -1,0 +1,13 @@
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
+akinator.py
+python-dotenv
+https://github.com/srevinsaju/sugaroid/archive/4b722c27b3728693e89b4b580986b8ca3bd81b52.tar.gz
+colorama
+freegames
+matrix-nio[e2e]
+gunicorn
+psutil
+wikipedia-api
+chatterbot
+mediawikiapi
+https://github.com/gunthercox/chatterbot-corpus/archive/master.tar.gz
