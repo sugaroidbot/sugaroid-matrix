@@ -5,6 +5,7 @@ https://github.com/srevinsaju/sugaroid/archive/4b722c27b3728693e89b4b580986b8ca3
 colorama
 freegames
 matrix-nio[e2e]
+aiohttp
 gunicorn
 psutil
 wikipedia-api
